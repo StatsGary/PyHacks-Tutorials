@@ -1,4 +1,4 @@
-# PyHacks
+# PyHacks - Tutorials to start you from beginner to winner!
 <img src ="man/figures/PyHacks.png" width="400" 
      height="250">
 
