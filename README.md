@@ -7,5 +7,11 @@ PyHacks is a tutorial repo managed by Gary Hutson from hutsons-hacks.info. This 
 The list below shows all the current files for getting up to speed with Python quickly:
 
 - Lists - Python's main data type
+- Tuples - Python's immutable type (cannot be changed)
+- Sets
+- Functions
+- Lambda Functions
+- Pandas
+- Numpy
 
 
