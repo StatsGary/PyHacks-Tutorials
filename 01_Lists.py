@@ -1,3 +1,36 @@
+# =============================================================================
+# Title             PyHacks - Lists, Looping and List Comprehensions
+# Author            Gary Hutson aka hutsons-hacks.info
+# Date created      01/07/2021
+# =============================================================================
+
+"""
+Python Collections (Arrays)
+There are four collection data types in the Python programming language:
+
+List is a collection which is ordered and changeable. Allows duplicate members.
+Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+Set is a collection which is unordered and unindexed. No duplicate members.
+Dictionary is a collection which is ordered* and changeable. No duplicate members.
+
+"""
+
+# =============================================================================
+# #-----------------------------List Method Lookup -------------------------#
+# =============================================================================
+# Method	    Description
+# append()	Adds an element at the end of the list
+# clear()	    Removes all the elements from the list
+# copy()	    Returns a copy of the list
+# count()	    Returns the number of elements with the specified value
+# extend()	Add the elements of a list (or any iterable), to the end of the current list
+# index()	    Returns the index of the first element with the specified value
+# insert()	Adds an element at the specified position
+# pop()	    Removes the element at the specified position
+# remove()	Removes the item with the specified value
+# reverse()	Reverses the order of the list
+# sort()	    Sorts the list
+# =============================================================================
 # ------------- Creating your first list------------------#
 # A list is a built in data type, among 3 additional types, that 
 # allow you to store multiple items in a single variable
@@ -19,17 +52,6 @@ print(coding_experience)
 # Return the list's type
 list_type = type(prog_languages)
 print(list_type)
-
-"""
-Python Collections (Arrays)
-There are four collection data types in the Python programming language:
-
-List is a collection which is ordered and changeable. Allows duplicate members.
-Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
-Set is a collection which is unordered and unindexed. No duplicate members.
-Dictionary is a collection which is ordered* and changeable. No duplicate members.
-
-"""
 
 # Creating a list using the relevant list constructor
 roles = list(("Senior Data Scientist", "Head of Analytics", 
@@ -129,8 +151,10 @@ for l_item in range(len(prog_languages)):
     
 # ------------- Looping numerical lists----------------#
 yearly_coding_errors = [1000, 600, 500, 400]
+yearly_coding_errors_reality = []
 for i in yearly_coding_errors:
-    reality = i * 1.25
+    reality = int(i * 1.25)
+    yearly_coding_errors_reality.append(reality)
     print("User said his yearly coding errors are {}.\nIn reality it is more like {:.0f}".format(i, reality))
 
 
@@ -147,5 +171,46 @@ yearly_coding_errors_limit = [int(i * 1.25) for i in yearly_coding_errors if i >
 # Create an iterable
 yearly_coding_reviews = [i for i in range(len(yearly_coding_errors))]
 
-# ------------- Looping lists ----------------------------#
+# ------------- Sortng lists ----------------------------#
+print("[MSG] Sorting the list ascending")
+yearly_coding_errors.sort()
+print(yearly_coding_errors)
+
+print("[MSG] Sorting the list descending")
+yearly_coding_errors.sort(reverse=True)
+print(yearly_coding_errors)
+
+# ------------- Copying lists ----------------------------#
+covered_so_far = ["List fundamentals", "Accessing List Items",
+                  "Adding List Items", "Changing List Items",
+                  "Add List Items", "Remove List Items",
+                  "Loop Items", "List Comprehension", "Sorting lists"]
+
+print(covered_so_far)
+
+# Copy our newly created list
+first_method = covered_so_far.copy()
+second_method = list(covered_so_far)
+print(first_method, second_method)
+
+# ------------- Joining Two Lists ----------------------------#
+list_length = len(covered_so_far)
+# Add list item to keep track
+covered_so_far.insert(list_length+1, "Copying lists")
+print(covered_so_far)
+
+
+# Join the first and second method lists together
+joined_list_one = first_method + prog_languages
+print(joined_list_one)
+
+# Using the append method
+years_experience = [1,2,3,4]
+salary = [45000, 50000, 53000, 62000]
+
+for i in years_experience:
+    salary.append(i)
+    
+print(salary)
+
 
