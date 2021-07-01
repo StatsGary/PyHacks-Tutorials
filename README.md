@@ -15,4 +15,11 @@ The list below shows all the current files for getting up to speed with Python q
 - Pandas
 - Numpy
 
+## Supporting YouTube Videos
+The supporting YouTube videos are available for the code chunks:
+
+* Lists
+  * [List and List Operations](https://www.youtube.com/watch?v=KABWFXadRyA&list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS&index=7&t=573s) - shows how to build, add and work with lists
+  * Orange
+  * Banana
 
