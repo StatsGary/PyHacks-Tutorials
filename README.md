@@ -20,6 +20,8 @@ The supporting YouTube videos are available for the code chunks:
 
 * Lists
   * [List and List Operations](https://www.youtube.com/watch?v=KABWFXadRyA&list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS&index=7&t=573s) - shows how to build, add and work with lists
-  * Orange
-  * Banana
+  * [List Looping and List Comprehension](https://www.youtube.com/watch?v=D41ZCvpOEpk&list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS&index=8) - shows how to iterate through a list and build list from lists aka the famous list comprehensions
+  * [Sorting, Grouping and Joining Lists](https://www.youtube.com/watch?v=q6teY2nwJKM&list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS&index=9) - this shows how to sort lists, create copies via various methods and joining lists.
+
+* [Tuples]() - this shows you how to index, work with, add to (why would you need to) and loop through tuples.
 
