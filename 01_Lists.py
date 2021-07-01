@@ -37,9 +37,6 @@ Dictionary is a collection which is ordered* and changeable. No duplicate member
 
 import numpy as np
 
-#https://www.w3schools.com/python/python_lists_change.asp
-#https://www.w3schools.com/python/ref_string_format.asp
-
 prog_languages = ["Python", "R", "C#", "SQL", "Javascript"]
 print(prog_languages)
 # Get the length of the list
