@@ -24,4 +24,5 @@ The supporting YouTube videos are available for the code chunks:
   * [Sorting, Grouping and Joining Lists](https://www.youtube.com/watch?v=q6teY2nwJKM&list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS&index=9) - this shows how to sort lists, create copies via various methods and joining lists.
 
 * [Tuples](https://youtu.be/uy0lURvj2EQ) - this shows you how to index, work with, add to (why would you need to) and loop through tuples.
+* [Dictionaries](https://www.youtube.com/watch?v=vXUnTHzWfQA) - one of the most utilised Python data structures and this knowledge will stand you in good stead for understanding how Pandas data frames work. 
 
