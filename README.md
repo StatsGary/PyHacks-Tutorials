@@ -8,6 +8,7 @@ The list below shows all the current files for getting up to speed with Python q
 
 - [Lists](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/01_Lists.py) - Python's main data type 
 - [Tuples](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/02_Tuples.py) - Python's immutable type (cannot be changed)
+- [Dictionaries](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/03_Dictionaries.py) - dictionaries allow for the storage of multiple types in one place. These are essentially the drivers for Panda's data frames. The difference between a dictionary and the other types is that it does not allow multiple of the same keys. Therefore, only unique keys can be allocated.
 - Sets
 - Functions
 - Lambda Functions
