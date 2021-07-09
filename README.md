@@ -11,6 +11,7 @@ The list below shows all the current files for getting up to speed with Python q
 - [Dictionaries](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/03_Dictionaries.py) - dictionaries allow for the storage of multiple types in one place. These are essentially the drivers for Panda's data frames. The difference between a dictionary and the other types is that it does not allow multiple of the same keys. Therefore, only unique keys can be allocated.
 - [Sets](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/04_Sets.py)
 - [Conditional Logic](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/05_ConditionalLogic.py)
+- [Going Loopy - All Things While and For Loop](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/06_Looping.py)
 - Functions
 - Lambda Functions
 - Pandas
