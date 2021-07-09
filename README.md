@@ -12,7 +12,7 @@ The list below shows all the current files for getting up to speed with Python q
 - [Sets](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/04_Sets.py)
 - [Conditional Logic](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/05_ConditionalLogic.py)
 - [Going Loopy - All Things While and For Loop](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/06_Looping.py)
-- [Functions]()
+- [Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/07_Functions.py)
 - [Lambda Functions]()
 - Pandas
 - Numpy
