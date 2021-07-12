@@ -14,6 +14,7 @@ The list below shows all the current files for getting up to speed with Python q
 - [Going Loopy - All Things While and For Loop](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/06_Looping.py)
 - [Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/07_Functions.py)
 - [Lambda Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/08_Lambda_Anon_Funcs.py)
+- [Classes and Class Methods]()
 - Pandas
 - Numpy
 
