@@ -15,8 +15,16 @@ The list below shows all the current files for getting up to speed with Python q
 - [Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/07_Functions.py)
 - [Lambda Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/08_Lambda_Anon_Funcs.py)
 - [Classes and Class Methods](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/09_Classes_with_Python.py)
-- Pandas
-- Numpy
+- [Classes with getters and setters](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/10_Classes_with_Python_Getters_Setters.py)
+- [Inheritance and Transformers Classes](https://github.com/StatsGary/PyHacks-Tutorials/tree/main/11_Inheritance_and_OverloadingMethods)
+- [Creating your own Iterators](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/12_Iterators.py)
+- [Function Scope - Local vs Global](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/13_FunctionScope.py)
+- [Working with Dates](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/14_Dates.py)
+- [Parsing JSON](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/15_JSON.py)
+- [Mathematics aka the Math Library](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/16_Math.py)
+- [Regex - Regular Expressions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/17_Regular_Expressions.py)
+- [Error Handling - try.except.finally](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/18_ErrorHandling.py)
+- [User Input and Replacement String Formatting](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/19_UserInput_and_StringFormatting.py)
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
