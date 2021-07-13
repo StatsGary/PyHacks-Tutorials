@@ -21,6 +21,7 @@ print_name("Gary Hutson")
 def scope_message():
     scope_message = "I am local"
     def inner_function():
+        print("*" * 75)
         print(scope_message)
     inner_function()
     
@@ -42,8 +43,21 @@ scope_message = "Still global"
 
 def print_message():
     scope_message = "Are you local"
+    print("*" * 75)
     print (scope_message)
     
 print_message() #This will get the local print by calling the function
 # The scope message is above the def argument
 print(scope_message)
+
+
+# Want to make a variable global inside a function. The global command to the rescue
+scope_msg = "I am available globally!"
+def scope_msg():
+    #This is the magic sauce
+    global scope_msg
+    scope_msg = "I should be local, but the global keywords has made me global!"
+    print("*" * 75)
+    
+scope_msg()
+print(scope_msg)
