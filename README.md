@@ -40,6 +40,10 @@ This contains:
 - [DataFrames - indexing and creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_3_DataFrames.py) - DataFrames - creating, indexing and extracting elements.
 - [DataFrames - Cleaning Data](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_4_DataFrames_Cleaning_Data.py) - teaches you how to remove duplicates, replace values, dummy encode, mean imputation, etc. 
 
+### Data Visualisation - Matplotlib
+
+- Work in progress!
+
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
 
