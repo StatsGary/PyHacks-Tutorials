@@ -1,6 +1,9 @@
 # PyHacks - Tutorials to start you from beginner to winner!
-[![FeatureTerminatoR: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 <img src ="man/figures/PyHacks.jpg"> <!-- width="300" height="150">-->
+<div>
+  [![FeatureTerminatoR: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+</div>
 
 PyHacks is a tutorial repo managed by Gary Hutson from <a href="https://hutsons-hacks.info/">hutsons-hacks.info</a>. This has been created to enable people to get up to speed quickly and to enable people to learn from my pain of learning Python about 4 years ago. This will act as a support to my YouTube tutorials. 
 
