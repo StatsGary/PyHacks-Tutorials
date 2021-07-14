@@ -35,7 +35,10 @@ The list below shows all the current files for getting up to speed with Python q
 
 ### Pandas - DataFrames and Series
 This contains:
-
+- [Pandas - Getting started](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_1_GettingStarted.py) - starts your slowly.
+- [Working with Pandas Series](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_2_Series.py.) - 1d series objects - used a lot with time series data.
+- [DataFrames - indexing and creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_3_DataFrames.py) - DataFrames - creating, indexing and extracting elements.
+- [DataFrames - Cleaning Data](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_4_DataFrames_Cleaning_Data.py) - teaches you how to remove duplicates, replace values, dummy encode, mean imputation, etc. 
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
