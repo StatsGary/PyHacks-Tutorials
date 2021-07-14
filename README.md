@@ -13,22 +13,22 @@ The list below shows all the current files for getting up to speed with Python q
 - [Lists](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/01_Lists.py) - Python's main data type 
 - [Tuples](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/02_Tuples.py) - Python's immutable type (cannot be changed)
 - [Dictionaries](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/03_Dictionaries.py) - dictionaries allow for the storage of multiple types in one place. These are essentially the drivers for Panda's data frames. The difference between a dictionary and the other types is that it does not allow multiple of the same keys. Therefore, only unique keys can be allocated.
-- [Sets](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/04_Sets.py)
-- [Conditional Logic](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/05_ConditionalLogic.py)
-- [Going Loopy - All Things While and For Loop](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/06_Looping.py)
-- [Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/07_Functions.py)
-- [Lambda Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/08_Lambda_Anon_Funcs.py)
-- [Classes and Class Methods](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/09_Classes_with_Python.py)
-- [Classes with getters and setters](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/10_Classes_with_Python_Getters_Setters.py)
-- [Inheritance and Transformers Classes](https://github.com/StatsGary/PyHacks-Tutorials/tree/main/11_Inheritance_and_OverloadingMethods)
-- [Creating your own Iterators](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/12_Iterators.py)
-- [Function Scope - Local vs Global](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/13_FunctionScope.py)
-- [Working with Dates](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/14_Dates.py)
-- [Parsing JSON](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/15_JSON.py)
-- [Mathematics aka the Math Library](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/16_Math.py)
-- [Regex - Regular Expressions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/17_Regular_Expressions.py)
-- [Error Handling - try.except.finally](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/18_ErrorHandling.py)
-- [User Input and Replacement String Formatting](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/19_UserInput_and_StringFormatting.py)
+- [Sets](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/04_Sets.py) - Sets are the final type of data structure used in Python
+- [Conditional Logic](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/05_ConditionalLogic.py) - learn how to if else like the best of them
+- [Going Loopy - All Things While and For Loop](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/06_Looping.py) - learn about iteration and how to loop over Python objects
+- [Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/07_Functions.py) - create your own user defined functions
+- [Lambda Functions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/08_Lambda_Anon_Funcs.py) - learn the power of anonymous functions in Python
+- [Classes and Class Methods](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/09_Classes_with_Python.py) - create your first class and learn about class methods
+- [Classes with getters and setters](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/10_Classes_with_Python_Getters_Setters.py) - explore the concept of class getters and setters to read and edit properties in Python, albeit there is no concept of hiding variables like other OOP
+- [Inheritance and Transformers Classes](https://github.com/StatsGary/PyHacks-Tutorials/tree/main/11_Inheritance_and_OverloadingMethods) - learn how you can use cool features from a class and reduce the number of line typed by inheriting features from the base class
+- [Creating your own Iterators](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/12_Iterators.py) - create your own iterators to enable custom iteration
+- [Function Scope - Local vs Global](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/13_FunctionScope.py) - learn about local and global scope
+- [Working with Dates](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/14_Dates.py) - work with dates in Python
+- [Parsing JSON](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/15_JSON.py) - Learn how to work with JSON objects from websites and parse them in Python with the json library
+- [Mathematics aka the Math Library](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/16_Math.py) - get comfortable with the math package
+- [Regex - Regular Expressions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/17_Regular_Expressions.py) - the weird world of text formatting with regex and strings
+- [Error Handling - try.except.finally](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/18_ErrorHandling.py) - learn how to allow your programmes to fail gracefully!
+- [User Input and Replacement String Formatting](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/19_UserInput_and_StringFormatting.py) - understand user input and string replacement
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
