@@ -8,6 +8,8 @@
 PyHacks is a tutorial repo managed by Gary Hutson from <a href="https://hutsons-hacks.info/">hutsons-hacks.info</a>. This has been created to enable people to get up to speed quickly and to enable people to learn from my pain of learning Python about 4 years ago. This will act as a support to my YouTube tutorials. 
 
 ## What's contained
+
+### Python Basics, Programming and OOP
 The list below shows all the current files for getting up to speed with Python quickly:
 
 - [Lists](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/01_Lists.py) - Python's main data type 
@@ -29,6 +31,11 @@ The list below shows all the current files for getting up to speed with Python q
 - [Regex - Regular Expressions](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/17_Regular_Expressions.py) - the weird world of text formatting with regex and strings
 - [Error Handling - try.except.finally](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/18_ErrorHandling.py) - learn how to allow your programmes to fail gracefully!
 - [User Input and Replacement String Formatting](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/19_UserInput_and_StringFormatting.py) - understand user input and string replacement
+- [File Input and Output](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/20_File_IO_Read_and_Write_data.py) - work with the operating system to create, write files, make and delete folders, get system attributes and learn how to create a machine shutdown function (do not change the != or it will shutdown your system when it runs).
+
+### Pandas - DataFrames and Series
+This contains:
+
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
