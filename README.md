@@ -42,7 +42,15 @@ This contains:
 
 ### Data Visualisation - Matplotlib
 
-- Work in progress!
+- [Intro to Matplotlib](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_1_Matplot_Intro.py) - this provides an intro to creating charts and basic formatting.
+- [Line Chart Creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_2_Matplot_LineCharts.py) - this takes you through line chart creation and tweaking the settings, such as line titles, colouration, fonts, etc.
+- [Labelling and grid lines](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_3_Matplot_Labelling_and_grids.py) - shows how to add labels and work with the grid lines on the plot.
+- [Creating subplots](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_4_Matplot_Subplotting.py) - learn how to create subplots.
+- [Scatter Chart creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_5_Matplot_Scatter.py) - learn how to visualise correlations and work with scatter charts.
+
+### NumPY - creating arrays and working with them
+
+- COMING SOON
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
