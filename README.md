@@ -34,7 +34,6 @@ The list below shows all the current files for getting up to speed with Python q
 - [File Input and Output](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/20_File_IO_Read_and_Write_data.py) - work with the operating system to create, write files, make and delete folders, get system attributes and learn how to create a machine shutdown function (do not change the != or it will shutdown your system when it runs).
 
 ### Pandas - DataFrames and Series
-This contains:
 - [Pandas - Getting started](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_1_GettingStarted.py) - starts your slowly.
 - [Working with Pandas Series](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_2_Series.py.) - 1d series objects - used a lot with time series data.
 - [DataFrames - indexing and creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_3_DataFrames.py) - DataFrames - creating, indexing and extracting elements.
