@@ -12,7 +12,7 @@ def get_df_structure_list(df):
     return listed
 
 import pandas as pd
-df = pd.read_csv("Data/Stranded/stranded.csv")
+df = pd.read_csv("Data/Stranded/stranded.csv")#, index_col=[0])
 
 #---------------------DATA CLEANING ON ROWS------------------------------------
 
@@ -75,6 +75,7 @@ print(get_df_structure_list(df))
 print(df.duplicated())
 # Removing duplicates
 df.drop_duplicates(inplace=True)
+print(df.columns)
 
 #--------------------CREATING DUMMY ENCODING FOR CAT VARIABLES-----------
 frail = df['frailty_index']
@@ -86,7 +87,14 @@ df = df.drop("frailty_index", axis=1) #Axis 0 is rows and axis 1 is columns
 
 # Use column concatenation: see: https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
 df_new = df.copy()
-df = pd.concat([df_new, dummies_frail], 
-               ignore_index=False,axis=1)
-df[""]
+df_new = pd.concat([df_new, dummies_frail],axis=1)
 
+#--------------------DROP MULTIPLE COLUMNS -------------------------------
+
+# I don't want the control dummy encoding or the the hcop flag
+df_reduced = df_new.drop(["frailidx_Activity Limitation",
+                          "frailidx_No index item"], axis=1)
+
+
+#--------------------WRITE FINAL ML DATASET READY---------------------------
+df_reduced.to_csv("Data/Stranded/stranded_reduced.csv", index=False)
