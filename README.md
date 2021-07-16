@@ -66,3 +66,6 @@ The supporting YouTube videos are available for the code chunks:
 * [Looping and Iteration](https://youtu.be/Y5gEYqdrIXU) - Looping and iteration - understand more about looping.
 * [Function Creation](https://youtu.be/nDfjoB1eHuw) - create functions, learn about Lambda functions, learn how to capture multiple arguments (args) and learn how to work with keyword arguments (kwargs). 
 
+* Classes:
+  * [Creating Transformers game with Classes and Class Methods](https://youtu.be/l-fAOXh3B0k) - shows how to create your first class and then create a game with class methods - a method is something that performs an actions, examples would be printing to the console, writing a file to disk, creating a folder, inflicting damage in battle, etc. 
+
