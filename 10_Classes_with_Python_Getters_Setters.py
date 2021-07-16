@@ -39,7 +39,7 @@ class transformer:
     # Use decorators to set this
     @property
     def score(self):
-        return self._score()
+        return self._score
     
     @score.setter
     def score(self, score):
