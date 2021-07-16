@@ -61,4 +61,8 @@ The supporting YouTube videos are available for the code chunks:
 
 * [Tuples](https://youtu.be/uy0lURvj2EQ) - this shows you how to index, work with, add to (why would you need to) and loop through tuples.
 * [Dictionaries](https://www.youtube.com/watch?v=vXUnTHzWfQA) - one of the most utilised Python data structures and this knowledge will stand you in good stead for understanding how Pandas data frames work. 
+* [Sets](https://youtu.be/GKBAQivo3Z4) - this teaches you what you need to know about sets, the final Python data structure.
+* [Conditional Logic](https://youtu.be/ko9ZiDDl3kI) - learn how to construct IF..ELIF..ELSE statements in Python.
+* [Looping and Iteration](https://youtu.be/Y5gEYqdrIXU) - Looping and iteration - understand more about looping.
+* [Function Creation](https://youtu.be/nDfjoB1eHuw) - create functions, learn about Lambda functions, learn how to capture multiple arguments (args) and learn how to work with keyword arguments (kwargs). 
 
