@@ -34,7 +34,6 @@ The list below shows all the current files for getting up to speed with Python q
 - [File Input and Output](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/20_File_IO_Read_and_Write_data.py) - work with the operating system to create, write files, make and delete folders, get system attributes and learn how to create a machine shutdown function (do not change the != or it will shutdown your system when it runs).
 
 ### Pandas - DataFrames and Series
-This contains:
 - [Pandas - Getting started](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_1_GettingStarted.py) - starts your slowly.
 - [Working with Pandas Series](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_2_Series.py.) - 1d series objects - used a lot with time series data.
 - [DataFrames - indexing and creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/21_Pandas/21_3_DataFrames.py) - DataFrames - creating, indexing and extracting elements.
@@ -42,7 +41,15 @@ This contains:
 
 ### Data Visualisation - Matplotlib
 
-- Work in progress!
+- [Intro to Matplotlib](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_1_Matplot_Intro.py) - this provides an intro to creating charts and basic formatting.
+- [Line Chart Creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_2_Matplot_LineCharts.py) - this takes you through line chart creation and tweaking the settings, such as line titles, colouration, fonts, etc.
+- [Labelling and grid lines](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_3_Matplot_Labelling_and_grids.py) - shows how to add labels and work with the grid lines on the plot.
+- [Creating subplots](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_4_Matplot_Subplotting.py) - learn how to create subplots.
+- [Scatter Chart creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_5_Matplot_Scatter.py) - learn how to visualise correlations and work with scatter charts.
+
+### NumPY - creating arrays and working with them
+
+- COMING SOON
 
 ## Supporting YouTube Videos
 The supporting YouTube videos are available for the code chunks:
@@ -54,4 +61,11 @@ The supporting YouTube videos are available for the code chunks:
 
 * [Tuples](https://youtu.be/uy0lURvj2EQ) - this shows you how to index, work with, add to (why would you need to) and loop through tuples.
 * [Dictionaries](https://www.youtube.com/watch?v=vXUnTHzWfQA) - one of the most utilised Python data structures and this knowledge will stand you in good stead for understanding how Pandas data frames work. 
+* [Sets](https://youtu.be/GKBAQivo3Z4) - this teaches you what you need to know about sets, the final Python data structure.
+* [Conditional Logic](https://youtu.be/ko9ZiDDl3kI) - learn how to construct IF..ELIF..ELSE statements in Python.
+* [Looping and Iteration](https://youtu.be/Y5gEYqdrIXU) - Looping and iteration - understand more about looping.
+* [Function Creation](https://youtu.be/nDfjoB1eHuw) - create functions, learn about Lambda functions, learn how to capture multiple arguments (args) and learn how to work with keyword arguments (kwargs). 
+
+* Classes:
+  * [Creating Transformers game with Classes and Class Methods](https://youtu.be/l-fAOXh3B0k) - shows how to create your first class and then create a game with class methods - a method is something that performs an actions, examples would be printing to the console, writing a file to disk, creating a folder, inflicting damage in battle, etc. 
 
