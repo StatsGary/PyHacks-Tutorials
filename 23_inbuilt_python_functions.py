@@ -1,6 +1,8 @@
-# Built in functions Python
-
-from inspect import getattr_static
+# =============================================================================
+# Title             PyHacks - In-Built Python Function
+# Author            Gary Hutson aka hutsons-hacks.info
+# Date created      06/04/2021
+# =============================================================================
 
 
 def padd_with_stuff(text):
