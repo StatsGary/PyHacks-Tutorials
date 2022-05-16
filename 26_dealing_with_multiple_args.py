@@ -16,6 +16,19 @@ test_mult_arguments('this is my normal argument', 'additional argument 1', 'addi
                     'additional argument 3')
 
 
+
+# Second example - create sum function to work with arguments
+def summer_function(*range):
+    result = 0
+    print(type(range)) # Check how the args are stored
+    for val in range:
+        result += val
+    return result
+
+# Use the new function
+print(summer_function(20,40,60,80,100))
+
+
 # Work with kwargs
 
 def working_with_kwargs(**my_k_wargs):
