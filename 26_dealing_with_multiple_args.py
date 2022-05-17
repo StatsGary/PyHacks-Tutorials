@@ -79,10 +79,11 @@ sum_unpacking(*list_of_vals)
 
 list1 = [(x + 1) ** 3 for x in range(10)]
 list2 = [(x + 3) ** 3 for x in range(10)]
-list3 = [(x+10) ** 3 for x in range(10)]
+list3 = [(x + 10) ** 3 for x in range(10)]
 
 list_of_lists = [*list1, *list2, *list3]
 print(len(list_of_lists))
+print(list_of_lists)
 
 # Merging dicts with kwargs 
 dict1 = {'x1': 10, 'x2': 30}
