@@ -1,3 +1,9 @@
+# =============================================================================
+# Title             PyHacks - namedtuples
+# Author            Gary Hutson aka hutsons-hacks.info
+# Date created      23/05/2022
+# =============================================================================
+
 from collections import namedtuple
 
 rockers_list = [
