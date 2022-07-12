@@ -1,3 +1,10 @@
+# =============================================================================
+# Title             PyHacks - defaultdict
+# Author            Gary Hutson aka hutsons-hacks.info
+# Date created      23/05/2022
+# =============================================================================
+
+
 from collections import defaultdict
 # Example 1
 # Function to return a default value if it fails
