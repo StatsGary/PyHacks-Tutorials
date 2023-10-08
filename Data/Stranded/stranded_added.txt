@@ -1,0 +1,4 @@
+"stranded.label" "age" "care.home.referral" "medicallysafe" "hcop" "mental_health_care" "periods_of_previous_care" "admit_date" "frailty_index"
+"1" "Not Stranded" 50 0 0 0 0 1 "29/12/2020" "No index item"
+"2" "Not Stranded" 31 1 0 1 0 1 "11/12/2020" "No index item"
+"768" "Stranded" 65 0 0 1 0 NA "18/01/2021" "Activity Limitation""768" "Stranded" 65 0 0 1 0 NA "18/01/2021" "Activity Limitation""769" "Stranded" 65 0 0 1 0 NA "18/01/2021" "JUST APPENDED""769" "Stranded" 65 0 0 1 0 NA "18/01/2021" "JUST APPENDED"
